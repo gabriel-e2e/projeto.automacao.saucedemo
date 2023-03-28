@@ -41,7 +41,7 @@ public class Login {
 	
 	@Given("que acesse o site saucedemo")
 	public void que_acesse_o_site_saucedemo() {
-		page.preencherCampos("standard_user", "secret_sauce1111");
+		page.preencherCampos("standard_user", "secret_sauce1122211");
 		
 	}
 
